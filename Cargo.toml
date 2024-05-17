@@ -1,0 +1,11 @@
+[package]
+name = "hearts"
+description = "Hearts - Gamified Dating App"
+authors = ["Michael Iglesias <michael.iglesias@pm.me>"]
+keywords = ["rust", "solana", "web3", "dating", "app"]
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
